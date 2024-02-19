@@ -1,0 +1,46 @@
+body {
+  background-color: lavender !important;
+}
+.todo-container h1 {
+  background:lavender;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  text-align: center; /* To center the content horizontally */
+  margin-top: 4%;
+}
+.row{
+  position: absolute;
+  border-color: black;
+  border-radius: 10px;
+  top: 18%;
+  left: 0;
+  width: 100%;
+  text-align: center; /* To center the content horizontally */
+  margin-top: 4%;
+}
+.row input{
+  margin-top: 1px;
+  display: inline-block;
+
+}
+.col-2 button{
+  background-color:red;
+  border-radius: 10px;
+  color: white;
+  margin-bottom: 10px;
+} 
+/* .col-2-button {
+  background-color: red;
+  color: white;
+} */
+#btn-success button {
+  background-color: green;
+  color: white;
+}
+
+
+
+                                                       
+
